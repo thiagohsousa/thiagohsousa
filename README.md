@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre Mim</h3>
+<h3 align="left">🧑‍💻  Sobre Mim</h3>
 
 ###
 
