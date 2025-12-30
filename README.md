@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Oi, eu sou o Thiago!<br><br>🔭 Atualmente estou me dedicando a melhorar minhas habilidades como desenvolvedor back-end.<br>📚 Estou aprendendo Python, Flask e SQL, e gosto de criar pequenos projetos para praticar o que estudo.<br>💡 Busco sempre escrever códigos limpos e eficientes, além de aprender novas tecnologias.<br>⚡ No meu tempo livre, gosto de explorar coisas novas relacionadas à programação e tecnologia.</p>
+<p align="left">Oi, eu sou o Thiago!<br><br>🔭 Atualmente estou me dedicando a melhorar minhas habilidades como desenvolvedor back-end.<br>📚 Estou aprendendo Python, Django e  Bancos SQL, e gosto de criar pequenos projetos para praticar o que estudo.<br>💡 Busco sempre escrever códigos limpos e eficientes, além de aprender novas tecnologias.<br>⚡ No meu tempo livre, gosto de explorar coisas novas relacionadas à programação e tecnologia.</p>
 
 ###
 
